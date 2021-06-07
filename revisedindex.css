@@ -1,0 +1,36 @@
+body {
+	width: auto;
+	height: auto;
+	margin: auto;
+	padding: 10%;
+	display: inline-block;
+	background-image: url("file:///C:/Users/monke/Documents/Week17%20Assets/UX_UI_HW_17/images/HEROIMG.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.inline-block1 {
+	display: inline-block;
+	list-style-type: none;
+	padding: 1%;
+	color: white;
+	font-family: 'Abel', sans-serif;
+}
+.aboutMe {
+	color: white;
+}
+.logo {
+	width: 23%;
+	padding: 1%;
+	justify-content: flex-start;
+}
+header {
+	width: 100%;
+	padding: 1%;
+}
+.aboutMe {
+	font-family: 'Abel', sans-serif;
+}
+#about {
+	display: inline-block;
+	padding: 1%;
+}
