@@ -1,0 +1,58 @@
+body {
+	width: auto;
+	height: auto;
+	margin: auto;
+	padding: 10%;
+	display: inline-block;
+	background-image: url("/images/HEROIMG.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav {
+	position: relative;
+}
+.logo {
+	padding: 1%;
+	display: inline-block;
+}
+
+header {
+	vertical-align: top;
+	width: 100%;
+	padding: 1%;
+	font-family: 'Abel', sans-serif;
+	color: rgb(37, 21, 21);
+}
+.navbar {
+	display: inline-block;
+	vertical-align: top;
+	line-height: normal;
+	padding-right: 48px;
+	padding-left: 48px;
+}
+
+.aboutMe {
+	font-family: 'Abel', sans-serif;
+	color: white;
+}
+
+
+
+
+footer {
+	color: white;
+	font-family: 'Abel', sans-serif;
+	display: flex;
+	justify-content: center;
+}
+ul {
+	list-style-type: none;
+	display: inline-flex;
+	margin-left: auto;
+	margin-right: 0px;
+}
+.footer {
+	display: inline-block;
+	padding: 48px;
+}
