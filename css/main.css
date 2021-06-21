@@ -4,7 +4,7 @@ body {
 	margin: auto;
 	padding: 10%;
 	display: inline-block;
-	background-image: url("file:///C:/Users/monke/Desktop/UX_UI_HW_17/images/HEROIMG.png");
+	background-image: url("../images/HEROIMG.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
